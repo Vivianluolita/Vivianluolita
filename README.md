@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🌱 I’m currently learning ...
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivianluolita)](https://github.com/Vivianluolita/github-readme-stats)
 
 <!--
 **Vivianluolita/Vivianluolita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
