@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ...
+- 🌱 keep studying, keep happy
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivianluolita&show_icons=true&theme=radical&repo=github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivianluolita&show_icons=true&theme=radical&layout=compact&repo=github-readme-stats)
 )](https://github.com/Vivianluolita/github-readme-stats)
 
 <!--
