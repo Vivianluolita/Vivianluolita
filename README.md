@@ -5,7 +5,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivianluolita&show_icons=true&theme=radical&repo=github-readme-stats)
 )](https://github.com/Vivianluolita/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivianluolita&layout=compact)](https://github.com/Vivianluolita/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivianluolita&layout=compact&show_icons=true&theme=radical)](https://github.com/Vivianluolita/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/Vivianluolita?username=Vivianluolita&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Vivianluolita/Vivianluolita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
