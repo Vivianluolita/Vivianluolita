@@ -2,19 +2,20 @@
 - 🌱 keep studying, keep happy
 ---
 
+
+
+
+
+
+
+
+
+
+
+## ⚡ Technologies
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivianluolita&show_icons=true&theme=radical&repo=github-readme-stats)
 )](https://github.com/Vivianluolita/github-readme-stats)
-
-
-
-
-
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivianluolita&layout=compact&show_icons=true&theme=radical)](https://github.com/Vivianluolita/github-readme-stats)
-
-
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vivianluolita&theme=radical)](https://github.com/Vivianluolita/github-readme-stats)
-## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
 	@@ -34,3 +31,8 @@ These are some of the technologies and tools that I work with:
